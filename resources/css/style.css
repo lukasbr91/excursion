@@ -1,3 +1,36 @@
 * {
-  color:red;
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  background-color: black;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.playstore {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  font-size: 21px;
+  color: Gray;
+}
+
+.phone {
+  margin-top: 10px;
+}
+
+.footer p {
+  text-align: right;
+  color: Gray;
+  font-size: 20px;
 }
